@@ -1,8 +1,8 @@
 # Rice - Rust ICE Implementation
-A partial [WIP] Rust Implementation of RFC [RFC8445](https://tools.ietf.org/html/rfc8445])
+A partial [WIP] Rust Implementation of [RFC8445](https://tools.ietf.org/html/rfc8445])
 
-# First Rust Project
-This is my very first Rust project, so the code is likely to be full of :bug: and likely not idiomatic Rust.
+# :rotating_light:First Rust Project:rotating_light:
+This is my very first Rust project, so the code is likely to be have a few :bug: and likely not idiomatic Rust, so please throw some PRs where this can be improved.
 
 # Work in Progress
 :construction:
