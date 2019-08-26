@@ -6,6 +6,8 @@ This is my very first Rust project, so the code is likely to be full of :bug: an
 
 # Work in Progress
 :construction:
+This is a project I started in order to learn Rust by attempting to implement something useful :) It is a purely spare-time project.
+:construction:
 
 # References
 
