@@ -14,3 +14,5 @@ This is a project I started in order to learn Rust by attempting to implement so
 :bookmark_tabs:[RFC8445](https://tools.ietf.org/html/rfc8445])  July 2018
 
 :bookmark_tabs:[RFC5245](https://tools.ietf.org/html/rfc5245) - April 2010
+
+If you're interested in this project go checkout [bifrost-rs](https://bifrost.rs), a similar effort to get an entire WebRTC Rust stack.
