@@ -1,0 +1,9 @@
+[package]
+name = "rice"
+version = "0.1.0"
+authors = ["Antonio Berrios <berrios486@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+stunclient = "*"
+rustun = "*"
