@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Clippy
-      run: cargo install clippy
+      run: rustup component add clippy-preview
     - name: Build
       run: cargo build --verbose
     - name: Run tests
