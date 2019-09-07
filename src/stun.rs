@@ -17,7 +17,4 @@ mod tests {
     use std::net::{Ipv4Addr};
 
     #[test]
-    fn test_get_srflx_address() {
-        assert_eq!(get_srflx_address("stun.l.google.com:19302".to_string(),"0.0.0.0:0".to_string()).ip(), Ipv4Addr::new(84, 92, 210, 205));
-    }
 }
