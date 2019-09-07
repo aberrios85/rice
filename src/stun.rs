@@ -10,11 +10,3 @@ pub fn get_srflx_address(srv_addr: String, host_socket: String) -> SocketAddr {
 
     c.query_external_address(&udp).unwrap()
 }
-
-#[cfg(test)]
-mod tests {
-    use super::*;
-    use std::net::{Ipv4Addr};
-
-    #[test]
-}
